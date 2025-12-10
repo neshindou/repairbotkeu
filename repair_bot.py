@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import time
 
-TOKEN = "7901291304:AAFMd_FXjeNRyjhkyKuUZpYhUK4Xz3vMBzU"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 
 # Храним состояние пользователей
